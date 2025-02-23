@@ -132,6 +132,9 @@ REKT-AI is an AI Agent Prediction Market where users and AI compete to make the 
 
 ## **Links**
 
+- **Demo Application**: [Youtube Video](https://youtu.be/lC0zaFTxRB8)
+- **Presentation**: [Canva](https://www.canva.com/design/DAGenbdKAuo/7ze5sG1vyyFvwi4JgrdimA/edit?utm_content=DAGenbdKAuo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Web App**: [Rekt-AI App](https://rekt-ai.vercel.app/)
 ---
 
 
